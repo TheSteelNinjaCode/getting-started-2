@@ -1,0 +1,7 @@
+{
+  "projectName": "getting-started-2",
+  "tailwindcss": true,
+  "websocket": false,
+  "version": "1.7.5",
+  "excludeFiles": []
+}
